@@ -1,2 +1,2 @@
-# project_1
+# Quick
 First ptoject
